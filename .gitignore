@@ -1,3 +1,2 @@
-django_tuto/*.pyc
-django_tuto/*.ini
-polls/*.pyc
+*.*ini
+*.*pyc
